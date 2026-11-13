@@ -1,0 +1,21 @@
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Power BI temporary files
+*.tmp
+~$*
+
+# Sensitive credentials
+.env
+*.pem
+*.key
+
+# Python cache
+__pycache__/
+*.pyc
